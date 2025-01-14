@@ -1,0 +1,6 @@
+.DS_Store
+DerivedData
+xcuserdata
+*.pbxuser
+*.perspectivev3
+build/
